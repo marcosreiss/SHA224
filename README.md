@@ -1,9 +1,9 @@
-#Projeto de Tabela Hash com Algoritmo de Criptografia SHA-244 em Java
+# Projeto de Tabela Hash com Algoritmo de Criptografia SHA-244 em Java
 
-##Descrição
+## Descrição
 Este projeto é uma implementação de uma tabela hash em Java, desenvolvido como parte das atividades da disciplina de Estrutura de Dados 2 do curso de Sistemas de Informação. Além da estrutura de dados de tabela hash, o projeto também inclui a implementação do algoritmo de criptografia SHA-244.
 
-##Funcionalidades
+## Funcionalidades
 * Implementação de uma tabela hash sem utilizar bibliotecas externas.
 * Implementação do algoritmo de criptografia SHA-244.
 * Inserção, busca e remoção de elementos na tabela hash.
